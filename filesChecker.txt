@@ -1,8 +1,0 @@
-date: 1.1.2025
-
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/country.txt
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/district.txt
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/city.txt
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/area.txt
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/category.txt
-link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/files-list.txt
