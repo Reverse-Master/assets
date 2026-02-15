@@ -1,5 +1,0 @@
-# Format: category: ID, name: CategoryName
-# Add more lines to auto-add categories in app
-category: 1, name: Tools
-category: 2, name: Games
-category: 3, name: Utilities
