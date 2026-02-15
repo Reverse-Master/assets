@@ -1,8 +1,0 @@
-date: 15.2.2026
-
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/country.txt
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/district.txt
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/city.txt
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/area.txt
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/category.txt
-link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/assets/files-list.txt
