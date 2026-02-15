@@ -1,0 +1,18 @@
+# Format: district: DistrictName, city: CityName
+district: Dhaka, city: Dhaka City
+district: Dhaka, city: Narayanganj
+district: Dhaka, city: Gazipur
+district: Dhaka, city: Savar
+district: Chittagong, city: Chittagong City
+district: Chittagong, city: Sitakunda
+district: Chittagong, city: Hathazari
+district: Rajshahi, city: Rajshahi City
+district: Sylhet, city: Sylhet City
+district: Khulna, city: Khulna City
+district: Barisal, city: Barisal City
+district: Rangpur, city: Rangpur City
+district: Mymensingh, city: Mymensingh City
+district: Comilla, city: Comilla City
+district: Gazipur, city: Gazipur Sadar
+district: Narayanganj, city: Narayanganj Sadar
+district: Cox's Bazar, city: Cox's Bazar Sadar

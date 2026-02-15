@@ -1,0 +1,6 @@
+# Format: category: ID, number: N, name: File Name, description: Full description here, link: https://example.com
+# Add more lines to auto-add files in app
+category: 1, number: 1, name: Root Checker, description: Check if your device is rooted. Simple and fast tool for Android., link: https://example.com/root-checker
+category: 1, number: 2, name: Root Manager, description: Manage root permissions for all your apps easily., link: https://example.com/root-manager
+category: 2, number: 1, name: Sample Game, description: A fun sample game for testing purposes., link: https://example.com/sample-game
+category: 3, number: 1, name: File Cleaner, description: Clean junk files and free up storage space on your device., link: https://example.com/file-cleaner

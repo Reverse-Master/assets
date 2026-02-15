@@ -1,0 +1,26 @@
+# Format: city: CityName, area: AreaName
+city: Dhaka City, area: Mirpur
+city: Dhaka City, area: Dhanmondi
+city: Dhaka City, area: Gulshan
+city: Dhaka City, area: Banani
+city: Dhaka City, area: Uttara
+city: Dhaka City, area: Mohammadpur
+city: Dhaka City, area: Farmgate
+city: Dhaka City, area: Motijheel
+city: Dhaka City, area: Shahbag
+city: Dhaka City, area: Rampura
+city: Dhaka City, area: Badda
+city: Dhaka City, area: Khilgaon
+city: Chittagong City, area: Agrabad
+city: Chittagong City, area: GEC Circle
+city: Chittagong City, area: Nasirabad
+city: Chittagong City, area: Khulshi
+city: Chittagong City, area: Chawkbazar
+city: Gazipur, area: Tongi
+city: Gazipur, area: Kaliakair
+city: Savar, area: Savar Sadar
+city: Savar, area: Ashulia
+city: Rajshahi City, area: Boalia
+city: Rajshahi City, area: Rajpara
+city: Sylhet City, area: Ambarkhana
+city: Sylhet City, area: Zindabazar

@@ -1,0 +1,13 @@
+# Format: country: CountryName, district: DistrictName
+country: Bangladesh, district: Dhaka
+country: Bangladesh, district: Chittagong
+country: Bangladesh, district: Rajshahi
+country: Bangladesh, district: Sylhet
+country: Bangladesh, district: Khulna
+country: Bangladesh, district: Barisal
+country: Bangladesh, district: Rangpur
+country: Bangladesh, district: Mymensingh
+country: Bangladesh, district: Comilla
+country: Bangladesh, district: Gazipur
+country: Bangladesh, district: Narayanganj
+country: Bangladesh, district: Cox's Bazar
