@@ -1,0 +1,613 @@
+district: Dhaka, thana: Adabor
+district: Dhaka, thana: Badda
+district: Dhaka, thana: Bangshal
+district: Dhaka, thana: Bhashantek
+district: Dhaka, thana: Bimanbandar
+district: Dhaka, thana: Cantonment
+district: Dhaka, thana: Chwakbazar
+district: Dhaka, thana: Darussalam
+district: Dhaka, thana: Demra
+district: Dhaka, thana: Dhamrai
+district: Dhaka, thana: Dhanmondi
+district: Dhaka, thana: Gendaria
+district: Dhaka, thana: Gulshan
+district: Dhaka, thana: Hazaribagh
+district: Dhaka, thana: Jatrabari
+district: Dhaka, thana: Kadamtali
+district: Dhaka, thana: Kafrul
+district: Dhaka, thana: Kalabagan
+district: Dhaka, thana: Kamrangirchar
+district: Dhaka, thana: Keraniganj
+district: Dhaka, thana: Khilgaon
+district: Dhaka, thana: Khilkhet
+district: Dhaka, thana: Kotwali
+district: Dhaka, thana: Lalbagh
+district: Dhaka, thana: Mirpur
+district: Dhaka, thana: Mohammadpur
+district: Dhaka, thana: Motijheel
+district: Dhaka, thana: Nawabganj
+district: Dhaka, thana: New Market
+district: Dhaka, thana: Pallabi
+district: Dhaka, thana: Paltan
+district: Dhaka, thana: Ramna
+district: Dhaka, thana: Rampura
+district: Dhaka, thana: Sabujbagh
+district: Dhaka, thana: Savar
+district: Dhaka, thana: Shah Ali
+district: Dhaka, thana: Shahbagh
+district: Dhaka, thana: Sher-e-Bangla Nagar
+district: Dhaka, thana: Shyampur
+district: Dhaka, thana: Sutrapur
+district: Dhaka, thana: Tejgaon
+district: Dhaka, thana: Tejgaon Industrial Area
+district: Dhaka, thana: Turag
+district: Dhaka, thana: Uttar Khan
+district: Dhaka, thana: Vatara
+district: Dhaka, thana: Wari
+
+district: Gazipur, thana: Gazipur Sadar
+district: Gazipur, thana: Kaliakair
+district: Gazipur, thana: Kaliganj
+district: Gazipur, thana: Kapasia
+district: Gazipur, thana: Sreepur
+
+district: Kishoreganj, thana: Austagram
+district: Kishoreganj, thana: Bajitpur
+district: Kishoreganj, thana: Bhairab
+district: Kishoreganj, thana: Hossainpur
+district: Kishoreganj, thana: Itna
+district: Kishoreganj, thana: Karimganj
+district: Kishoreganj, thana: Katiadi
+district: Kishoreganj, thana: Kishoreganj Sadar
+district: Kishoreganj, thana: Kuliarchar
+district: Kishoreganj, thana: Mithamain
+district: Kishoreganj, thana: Nikli
+district: Kishoreganj, thana: Pakundia
+district: Kishoreganj, thana: Tarail
+
+district: Manikganj, thana: Daulatpur
+district: Manikganj, thana: Ghior
+district: Manikganj, thana: Harirampur
+district: Manikganj, thana: Manikganj Sadar
+district: Manikganj, thana: Saturia
+district: Manikganj, thana: Shibalaya
+district: Manikganj, thana: Singair
+
+district: Munshiganj, thana: Gazaria
+district: Munshiganj, thana: Lohajang
+district: Munshiganj, thana: Munshiganj Sadar
+district: Munshiganj, thana: Sirajdikhan
+district: Munshiganj, thana: Sreenagar
+district: Munshiganj, thana: Tongibari
+
+district: Narayanganj, thana: Araihazar
+district: Narayanganj, thana: Bandar
+district: Narayanganj, thana: Narayanganj Sadar
+district: Narayanganj, thana: Rupganj
+district: Narayanganj, thana: Sonargaon
+
+district: Narsingdi, thana: Belabo
+district: Narsingdi, thana: Monohardi
+district: Narsingdi, thana: Narsingdi Sadar
+district: Narsingdi, thana: Palash
+district: Narsingdi, thana: Raipura
+district: Narsingdi, thana: Shibpur
+
+district: Tangail, thana: Basail
+district: Tangail, thana: Bhuapur
+district: Tangail, thana: Delduar
+district: Tangail, thana: Dhanbari
+district: Tangail, thana: Ghatail
+district: Tangail, thana: Gopalpur
+district: Tangail, thana: Kalihati
+district: Tangail, thana: Madhupur
+district: Tangail, thana: Mirzapur
+district: Tangail, thana: Nagarpur
+district: Tangail, thana: Sakhipur
+district: Tangail, thana: Tangail Sadar
+
+district: Faridpur, thana: Alfadanga
+district: Faridpur, thana: Bhanga
+district: Faridpur, thana: Boalmari
+district: Faridpur, thana: Charbhadrasan
+district: Faridpur, thana: Faridpur Sadar
+district: Faridpur, thana: Madhukhali
+district: Faridpur, thana: Nagarkanda
+district: Faridpur, thana: Sadarpur
+district: Faridpur, thana: Saltha
+
+district: Gopalganj, thana: Gopalganj Sadar
+district: Gopalganj, thana: Kashiani
+district: Gopalganj, thana: Kotalipara
+district: Gopalganj, thana: Muksudpur
+district: Gopalganj, thana: Tungipara
+
+district: Madaripur, thana: Kalkini
+district: Madaripur, thana: Madaripur Sadar
+district: Madaripur, thana: Rajoir
+district: Madaripur, thana: Shibchar
+
+district: Rajbari, thana: Baliakandi
+district: Rajbari, thana: Goalanda
+district: Rajbari, thana: Kalukhali
+district: Rajbari, thana: Pangsha
+district: Rajbari, thana: Rajbari Sadar
+
+district: Shariatpur, thana: Bhedarganj
+district: Shariatpur, thana: Damudya
+district: Shariatpur, thana: Gosairhat
+district: Shariatpur, thana: Naria
+district: Shariatpur, thana: Shariatpur Sadar
+district: Shariatpur, thana: Zanjira
+
+district: Chittagong, thana: Akbarshah
+district: Chittagong, thana: Anwara
+district: Chittagong, thana: Bakalia
+district: Chittagong, thana: Bandar
+district: Chittagong, thana: Bayazid
+district: Chittagong, thana: Banshkhali
+district: Chittagong, thana: Boalkhali
+district: Chittagong, thana: Chandgaon
+district: Chittagong, thana: Chandanaish
+district: Chittagong, thana: Chittagong Kotwali
+district: Chittagong, thana: Double Mooring
+district: Chittagong, thana: Fatikchhari
+district: Chittagong, thana: Halishahar
+district: Chittagong, thana: Hathazari
+district: Chittagong, thana: Karnaphuli
+district: Chittagong, thana: Khulshi
+district: Chittagong, thana: Lohagara
+district: Chittagong, thana: Mirsharai
+district: Chittagong, thana: Pahartali
+district: Chittagong, thana: Panchlaish
+district: Chittagong, thana: Patenga
+district: Chittagong, thana: Patiya
+district: Chittagong, thana: Rangunia
+district: Chittagong, thana: Raozan
+district: Chittagong, thana: Sandwip
+district: Chittagong, thana: Satkania
+district: Chittagong, thana: Sitakunda
+
+district: Cox's Bazar, thana: Chakaria
+district: Cox's Bazar, thana: Cox's Bazar Sadar
+district: Cox's Bazar, thana: Kutubdia
+district: Cox's Bazar, thana: Maheshkhali
+district: Cox's Bazar, thana: Pekua
+district: Cox's Bazar, thana: Ramu
+district: Cox's Bazar, thana: Teknaf
+district: Cox's Bazar, thana: Ukhia
+
+district: Cumilla, thana: Barura
+district: Cumilla, thana: Brahmanpara
+district: Cumilla, thana: Burichang
+district: Cumilla, thana: Chandina
+district: Cumilla, thana: Chauddagram
+district: Cumilla, thana: Cumilla Adarsha Sadar
+district: Cumilla, thana: Cumilla Sadar Dakshin
+district: Cumilla, thana: Daudkandi
+district: Cumilla, thana: Debidwar
+district: Cumilla, thana: Homna
+district: Cumilla, thana: Laksam
+district: Cumilla, thana: Lalmai
+district: Cumilla, thana: Manoharganj
+district: Cumilla, thana: Meghna
+district: Cumilla, thana: Muradnagar
+district: Cumilla, thana: Nangalkot
+district: Cumilla, thana: Titas
+
+district: Brahmanbaria, thana: Akhaura
+district: Brahmanbaria, thana: Ashuganj
+district: Brahmanbaria, thana: Bancharampur
+district: Brahmanbaria, thana: Bijoynagar
+district: Brahmanbaria, thana: Brahmanbaria Sadar
+district: Brahmanbaria, thana: Kasba
+district: Brahmanbaria, thana: Nabinagar
+district: Brahmanbaria, thana: Nasirnagar
+district: Brahmanbaria, thana: Sarail
+
+district: Chandpur, thana: Chandpur Sadar
+district: Chandpur, thana: Faridganj
+district: Chandpur, thana: Haimchar
+district: Chandpur, thana: Haziganj
+district: Chandpur, thana: Kachua
+district: Chandpur, thana: Matlab Dakshin
+district: Chandpur, thana: Matlab Uttar
+district: Chandpur, thana: Shahrasti
+
+district: Lakshmipur, thana: Lakshmipur Sadar
+district: Lakshmipur, thana: Raipur
+district: Lakshmipur, thana: Ramganj
+district: Lakshmipur, thana: Ramgati
+district: Lakshmipur, thana: Kamalnagar
+
+district: Noakhali, thana: Begumganj
+district: Noakhali, thana: Chatkhil
+district: Noakhali, thana: Companiganj
+district: Noakhali, thana: Hatiya
+district: Noakhali, thana: Kabirhat
+district: Noakhali, thana: Noakhali Sadar
+district: Noakhali, thana: Senbagh
+district: Noakhali, thana: Sonaimuri
+district: Noakhali, thana: Subarnachar
+
+district: Feni, thana: Chhagalnaiya
+district: Feni, thana: Daganbhuiyan
+district: Feni, thana: Feni Sadar
+district: Feni, thana: Fulgazi
+district: Feni, thana: Parshuram
+district: Feni, thana: Sonagazi
+
+district: Khagrachhari, thana: Dighinala
+district: Khagrachhari, thana: Khagrachhari Sadar
+district: Khagrachhari, thana: Lakshmichhari
+district: Khagrachhari, thana: Mahalchhari
+district: Khagrachhari, thana: Manikchhari
+district: Khagrachhari, thana: Matiranga
+district: Khagrachhari, thana: Panchhari
+district: Khagrachhari, thana: Ramgarh
+
+district: Rangamati, thana: Baghaichhari
+district: Rangamati, thana: Barkal
+district: Rangamati, thana: Kawkhali
+district: Rangamati, thana: Belaichhari
+district: Rangamati, thana: Kaptai
+district: Rangamati, thana: Juraichhari
+district: Rangamati, thana: Langadu
+district: Rangamati, thana: Naniarchar
+district: Rangamati, thana: Rajasthali
+district: Rangamati, thana: Rangamati Sadar
+
+district: Bandarban, thana: Alikadam
+district: Bandarban, thana: Bandarban Sadar
+district: Bandarban, thana: Lama
+district: Bandarban, thana: Naikhongchhari
+district: Bandarban, thana: Rowangchhari
+district: Bandarban, thana: Ruma
+district: Bandarban, thana: Thanchi
+
+district: Rajshahi, thana: Bagha
+district: Rajshahi, thana: Bagmara
+district: Rajshahi, thana: Boalia
+district: Rajshahi, thana: Charghat
+district: Rajshahi, thana: Durgapur
+district: Rajshahi, thana: Godagari
+district: Rajshahi, thana: Matihar
+district: Rajshahi, thana: Mohanpur
+district: Rajshahi, thana: Paba
+district: Rajshahi, thana: Putia
+district: Rajshahi, thana: Rajpara
+district: Rajshahi, thana: Shah Mokhdum
+district: Rajshahi, thana: Tanore
+
+district: Chapainawabganj, thana: Bholahat
+district: Chapainawabganj, thana: Chapainawabganj Sadar
+district: Chapainawabganj, thana: Gomastapur
+district: Chapainawabganj, thana: Nachol
+district: Chapainawabganj, thana: Shibganj
+
+district: Naogaon, thana: Atrai
+district: Naogaon, thana: Badalgachhi
+district: Naogaon, thana: Dhamoirhat
+district: Naogaon, thana: Manda
+district: Naogaon, thana: Mahadevpur
+district: Naogaon, thana: Naogaon Sadar
+district: Naogaon, thana: Niamatpur
+district: Naogaon, thana: Patnitala
+district: Naogaon, thana: Porsha
+district: Naogaon, thana: Raninagar
+district: Naogaon, thana: Sapahar
+
+district: Natore, thana: Bagatipara
+district: Natore, thana: Baraigram
+district: Natore, thana: Gurudaspur
+district: Natore, thana: Lalpur
+district: Natore, thana: Natore Sadar
+district: Natore, thana: Singra
+
+district: Pabna, thana: Atgharia
+district: Pabna, thana: Bera
+district: Pabna, thana: Bhangura
+district: Pabna, thana: Chatmohar
+district: Pabna, thana: Faridpur
+district: Pabna, thana: Ishwardi
+district: Pabna, thana: Pabna Sadar
+district: Pabna, thana: Santhia
+district: Pabna, thana: Sujanagar
+
+district: Sirajganj, thana: Belkuchi
+district: Sirajganj, thana: Chauhali
+district: Sirajganj, thana: Kamarkhanda
+district: Sirajganj, thana: Kazipur
+district: Sirajganj, thana: Raiganj
+district: Sirajganj, thana: Shahjadpur
+district: Sirajganj, thana: Sirajganj Sadar
+district: Sirajganj, thana: Tarash
+district: Sirajganj, thana: Ullapara
+
+district: Bogura, thana: Adamdighi
+district: Bogura, thana: Bogura Sadar
+district: Bogura, thana: Dhunat
+district: Bogura, thana: Dhupchanchia
+district: Bogura, thana: Gabtali
+district: Bogura, thana: Kahaloo
+district: Bogura, thana: Nandigram
+district: Bogura, thana: Sariakandi
+district: Bogura, thana: Shajahanpur
+district: Bogura, thana: Sherpur
+district: Bogura, thana: Shibganj
+district: Bogura, thana: Sonatala
+
+district: Joypurhat, thana: Akkelpur
+district: Joypurhat, thana: Joypurhat Sadar
+district: Joypurhat, thana: Kalai
+district: Joypurhat, thana: Khetlal
+district: Joypurhat, thana: Panchbibi
+
+district: Khulna, thana: Batiaghata
+district: Khulna, thana: Dacope
+district: Khulna, thana: Daulatpur
+district: Khulna, thana: Dumuria
+district: Khulna, thana: Khalishpur
+district: Khulna, thana: Khan Jahan Ali
+district: Khulna, thana: Khulna Kotwali
+district: Khulna, thana: Koyra
+district: Khulna, thana: Paikgachha
+district: Khulna, thana: Phultala
+district: Khulna, thana: Rupsha
+district: Khulna, thana: Sonadanga
+district: Khulna, thana: Terokhada
+
+district: Bagerhat, thana: Bagerhat Sadar
+district: Bagerhat, thana: Chitalmari
+district: Bagerhat, thana: Fakirhat
+district: Bagerhat, thana: Kachua
+district: Bagerhat, thana: Mollahat
+district: Bagerhat, thana: Mongla
+district: Bagerhat, thana: Morrelganj
+district: Bagerhat, thana: Rampal
+district: Bagerhat, thana: Sarankhola
+
+district: Chuadanga, thana: Alamdanga
+district: Chuadanga, thana: Chuadanga Sadar
+district: Chuadanga, thana: Damurhuda
+district: Chuadanga, thana: Jibannagar
+
+district: Jashore, thana: Abhaynagar
+district: Jashore, thana: Bagherpara
+district: Jashore, thana: Chaugachha
+district: Jashore, thana: Jashore Sadar
+district: Jashore, thana: Jhikargachha
+district: Jashore, thana: Keshabpur
+district: Jashore, thana: Manirampur
+district: Jashore, thana: Sharsha
+
+district: Jhenaidah, thana: Harinakunda
+district: Jhenaidah, thana: Jhenaidah Sadar
+district: Jhenaidah, thana: Kaliganj
+district: Jhenaidah, thana: Kotchandpur
+district: Jhenaidah, thana: Maheshpur
+district: Jhenaidah, thana: Shailkupa
+
+district: Kushtia, thana: Bheramara
+district: Kushtia, thana: Daulatpur
+district: Kushtia, thana: Khoksa
+district: Kushtia, thana: Kumarkhali
+district: Kushtia, thana: Kushtia Sadar
+district: Kushtia, thana: Mirpur
+
+district: Magura, thana: Magura Sadar
+district: Magura, thana: Mohammadpur
+district: Magura, thana: Shalikha
+district: Magura, thana: Sreepur
+
+district: Meherpur, thana: Gangni
+district: Meherpur, thana: Meherpur Sadar
+district: Meherpur, thana: Mujibnagar
+
+district: Narail, thana: Kalia
+district: Narail, thana: Lohagara
+district: Narail, thana: Narail Sadar
+
+district: Satkhira, thana: Assasuni
+district: Satkhira, thana: Debhata
+district: Satkhira, thana: Kalaroa
+district: Satkhira, thana: Kaliganj
+district: Satkhira, thana: Satkhira Sadar
+district: Satkhira, thana: Shyamnagar
+district: Satkhira, thana: Tala
+
+district: Barishal, thana: Agailjhara
+district: Barishal, thana: Babuganj
+district: Barishal, thana: Bakerganj
+district: Barishal, thana: Banaripara
+district: Barishal, thana: Barishal Kotwali
+district: Barishal, thana: Gaurnadi
+district: Barishal, thana: Hizla
+district: Barishal, thana: Mehendiganj
+district: Barishal, thana: Muladi
+district: Barishal, thana: Wazirpur
+
+district: Patuakhali, thana: Bauphal
+district: Patuakhali, thana: Dashmina
+district: Patuakhali, thana: Dumki
+district: Patuakhali, thana: Galachipa
+district: Patuakhali, thana: Kalapara
+district: Patuakhali, thana: Mirzaganj
+district: Patuakhali, thana: Patuakhali Sadar
+district: Patuakhali, thana: Rangabali
+
+district: Bhola, thana: Bhola Sadar
+district: Bhola, thana: Burhanuddin
+district: Bhola, thana: Char Fasson
+district: Bhola, thana: Daulatkhan
+district: Bhola, thana: Lalmohan
+district: Bhola, thana: Manpura
+district: Bhola, thana: Tazumuddin
+
+district: Barguna, thana: Amtali
+district: Barguna, thana: Bamna
+district: Barguna, thana: Barguna Sadar
+district: Barguna, thana: Betagi
+district: Barguna, thana: Patharghata
+district: Barguna, thana: Taltali
+
+district: Jhalokati, thana: Jhalokati Sadar
+district: Jhalokati, thana: Kathalia
+district: Jhalokati, thana: Nalchity
+district: Jhalokati, thana: Rajapur
+
+district: Pirojpur, thana: Bhandaria
+district: Pirojpur, thana: Kawkhali
+district: Pirojpur, thana: Mathbaria
+district: Pirojpur, thana: Nazirpur
+district: Pirojpur, thana: Pirojpur Sadar
+district: Pirojpur, thana: Nesarabad
+
+district: Sylhet, thana: Balaganj
+district: Sylhet, thana: Beanibazar
+district: Sylhet, thana: Bishwanath
+district: Sylhet, thana: Companiganj
+district: Sylhet, thana: Dakshin Surma
+district: Sylhet, thana: Fenchuganj
+district: Sylhet, thana: Golapganj
+district: Sylhet, thana: Gowainghat
+district: Sylhet, thana: Jaintiapur
+district: Sylhet, thana: Kanaighat
+district: Sylhet, thana: Osmani Nagar
+district: Sylhet, thana: Sylhet Sadar
+district: Sylhet, thana: Zakiganj
+
+district: Moulvibazar, thana: Barlekha
+district: Moulvibazar, thana: Juri
+district: Moulvibazar, thana: Kamalganj
+district: Moulvibazar, thana: Kulaura
+district: Moulvibazar, thana: Moulvibazar Sadar
+district: Moulvibazar, thana: Rajnagar
+district: Moulvibazar, thana: Sreemangal
+
+district: Habiganj, thana: Ajmiriganj
+district: Habiganj, thana: Bahubal
+district: Habiganj, thana: Baniyachong
+district: Habiganj, thana: Chunarughat
+district: Habiganj, thana: Habiganj Sadar
+district: Habiganj, thana: Lakhai
+district: Habiganj, thana: Madhabpur
+district: Habiganj, thana: Nabiganj
+district: Habiganj, thana: Shayestaganj
+
+district: Sunamganj, thana: Bishwamvarpur
+district: Sunamganj, thana: Chhatak
+district: Sunamganj, thana: Dakshin Sunamganj
+district: Sunamganj, thana: Derai
+district: Sunamganj, thana: Dharamapasha
+district: Sunamganj, thana: Dowarabazar
+district: Sunamganj, thana: Jagannathpur
+district: Sunamganj, thana: Jamalganj
+district: Sunamganj, thana: Sullah
+district: Sunamganj, thana: Sunamganj Sadar
+district: Sunamganj, thana: Tahirpur
+
+district: Rangpur, thana: Badarganj
+district: Rangpur, thana: Gangachara
+district: Rangpur, thana: Kaunia
+district: Rangpur, thana: Mithapukur
+district: Rangpur, thana: Pirgachha
+district: Rangpur, thana: Pirganj
+district: Rangpur, thana: Rangpur Sadar
+district: Rangpur, thana: Taraganj
+
+district: Dinajpur, thana: Birampur
+district: Dinajpur, thana: Birganj
+district: Dinajpur, thana: Biral
+district: Dinajpur, thana: Bochaganj
+district: Dinajpur, thana: Chirirbandar
+district: Dinajpur, thana: Dinajpur Sadar
+district: Dinajpur, thana: Fulbari
+district: Dinajpur, thana: Ghoraghat
+district: Dinajpur, thana: Hakimpur
+district: Dinajpur, thana: Kaharole
+district: Dinajpur, thana: Khansama
+district: Dinajpur, thana: Nawabganj
+district: Dinajpur, thana: Parbatipur
+
+district: Kurigram, thana: Bhurungamari
+district: Kurigram, thana: Char Rajibpur
+district: Kurigram, thana: Chilmari
+district: Kurigram, thana: Kurigram Sadar
+district: Kurigram, thana: Nageshwari
+district: Kurigram, thana: Phulbari
+district: Kurigram, thana: Rajarhat
+district: Kurigram, thana: Raomari
+district: Kurigram, thana: Ulipur
+
+district: Gaibandha, thana: Fulchhari
+district: Gaibandha, thana: Gaibandha Sadar
+district: Gaibandha, thana: Gobindaganj
+district: Gaibandha, thana: Palashbari
+district: Gaibandha, thana: Sadullapur
+district: Gaibandha, thana: Sundarganj
+district: Gaibandha, thana: Shaghata
+
+district: Lalmonirhat, thana: Aditmari
+district: Lalmonirhat, thana: Hatibandha
+district: Lalmonirhat, thana: Kaliganj
+district: Lalmonirhat, thana: Lalmonirhat Sadar
+district: Lalmonirhat, thana: Patgram
+
+district: Nilphamari, thana: Dimla
+district: Nilphamari, thana: Domar
+district: Nilphamari, thana: Jaldhaka
+district: Nilphamari, thana: Kishoreganj
+district: Nilphamari, thana: Nilphamari Sadar
+district: Nilphamari, thana: Saidpur
+
+district: Panchagarh, thana: Atwari
+district: Panchagarh, thana: Boda
+district: Panchagarh, thana: Debiganj
+district: Panchagarh, thana: Panchagarh Sadar
+district: Panchagarh, thana: Tetulia
+
+district: Thakurgaon, thana: Baliadangi
+district: Thakurgaon, thana: Haripur
+district: Thakurgaon, thana: Pirganj
+district: Thakurgaon, thana: Ranisankail
+district: Thakurgaon, thana: Thakurgaon Sadar
+
+district: Mymensingh, thana: Bhaluka
+district: Mymensingh, thana: Dhobaura
+district: Mymensingh, thana: Fulbaria
+district: Mymensingh, thana: Gaffargaon
+district: Mymensingh, thana: Gauripur
+district: Mymensingh, thana: Haluaghat
+district: Mymensingh, thana: Ishwarganj
+district: Mymensingh, thana: Mymensingh Sadar
+district: Mymensingh, thana: Muktagachha
+district: Mymensingh, thana: Nandail
+district: Mymensingh, thana: Phulpur
+district: Mymensingh, thana: Tarakanda
+district: Mymensingh, thana: Trishal
+
+district: Jamalpur, thana: Bakshiganj
+district: Jamalpur, thana: Dewanganj
+district: Jamalpur, thana: Islampur
+district: Jamalpur, thana: Jamalpur Sadar
+district: Jamalpur, thana: Madarganj
+district: Jamalpur, thana: Melandaha
+district: Jamalpur, thana: Sarishabari
+
+district: Sherpur, thana: Jhenaigati
+district: Sherpur, thana: Nakla
+district: Sherpur, thana: Nalitabari
+district: Sherpur, thana: Sherpur Sadar
+district: Sherpur, thana: Sreebardi
+
+district: Netrokona, thana: Atpara
+district: Netrokona, thana: Barhatta
+district: Netrokona, thana: Durgapur
+district: Netrokona, thana: Kendua
+district: Netrokona, thana: Khaliajuri
+district: Netrokona, thana: Kalmakanda
+district: Netrokona, thana: Madan
+district: Netrokona, thana: Mohanganj
+district: Netrokona, thana: Netrokona Sadar
+district: Netrokona, thana: Purbadhala
