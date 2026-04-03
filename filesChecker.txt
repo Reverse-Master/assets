@@ -1,0 +1,4 @@
+date: 15.2.2026
+
+link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/district.txt
+link: https://raw.githubusercontent.com/Reverse-Master/assets/refs/heads/main/thana.txt
