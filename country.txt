@@ -1,3 +1,0 @@
-# Country list — one per line
-# Add more countries below to auto-add in app
-Bangladesh
