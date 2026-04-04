@@ -1,0 +1,55 @@
+Dhaka|Dhanmondi
+Dhaka|Gulshan
+Dhaka|Motijheel
+Dhaka|Mirpur
+Dhaka|Mohammadpur
+Dhaka|Uttara
+Dhaka|Demra
+Dhaka|Tejgaon
+Dhaka|Lalbagh
+Dhaka|Kotwali
+Dhaka|Badda
+Dhaka|Khilgaon
+Dhaka|Pallabi
+Dhaka|Savar
+Dhaka|Keraniganj
+Chittagong|Agrabad
+Chittagong|Kotwali
+Chittagong|Panchlaish
+Chittagong|Bayazid
+Chittagong|Halishahar
+Chittagong|Chandgaon
+Chittagong|Banshkhali
+Chittagong|Sitakunda
+Chittagong|Mirsarai
+Chittagong|Patiya
+Rajshahi|Boalia
+Rajshahi|Motihar
+Rajshahi|Rajpara
+Rajshahi|Shah Makhdum
+Sylhet|Sylhet Sadar
+Sylhet|Jalalabad
+Sylhet|South Surma
+Sylhet|Osmani Nagar
+Gazipur|Gazipur Sadar
+Gazipur|Kaliakair
+Gazipur|Kapasia
+Gazipur|Sreepur
+Gazipur|Kaliganj
+Narayanganj|Fatullah
+Narayanganj|Sadar
+Narayanganj|Siddhirganj
+Narayanganj|Bandar
+Narayanganj|Araihazar
+Narsingdi|Narsingdi Sadar
+Narsingdi|Shibpur
+Narsingdi|Belabo
+Comilla|Comilla Sadar
+Comilla|Brahmanpara
+Comilla|Barura
+Mymensingh|Mymensingh Sadar
+Mymensingh|Trishal
+Mymensingh|Bhaluka
+Khulna|Khulna Sadar
+Khulna|Sonadanga
+Khulna|Khalishpur
